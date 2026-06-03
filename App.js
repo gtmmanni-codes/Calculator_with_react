@@ -14,6 +14,7 @@ function App() {
 
   const deleteLast = () => {
     setInput(input.slice(0, -1));
+    
   };
 
   const calculate = () => {
