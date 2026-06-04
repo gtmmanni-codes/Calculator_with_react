@@ -42,3 +42,15 @@ cd react-calculator
 ```bash
 npm install
 ```
+
+4. Start the development server:
+
+```bash
+npm start
+```
+
+5. Open your browser and visit:
+
+```text
+http://localhost:3000
+```
