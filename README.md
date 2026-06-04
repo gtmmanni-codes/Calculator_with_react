@@ -74,3 +74,5 @@ http://localhost:3000
 - Keyboard support
 - Scientific calculator functions
 - Calculation history
+- Dark/Light mode
+- Mobile-first responsive design
