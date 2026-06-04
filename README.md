@@ -61,3 +61,10 @@ http://localhost:3000
 - Press **=** to calculate the result.
 - Press **C** to clear the display.
 - Press **⌫** to remove the last entered character.
+
+## Notes
+
+- The calculator currently uses JavaScript's `eval()` function to evaluate expressions.
+- For production applications, it is recommended to replace `eval()` with a safer expression parser such as:
+  - mathjs
+  - expr-eval
