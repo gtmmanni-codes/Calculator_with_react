@@ -76,3 +76,4 @@ http://localhost:3000
 - Calculation history
 - Dark/Light mode
 - Mobile-first responsive design
+- Safer expression evaluation
