@@ -54,3 +54,10 @@ npm start
 ```text
 http://localhost:3000
 ```
+
+## Usage
+
+- Click the number and operator buttons to create an expression.
+- Press **=** to calculate the result.
+- Press **C** to clear the display.
+- Press **⌫** to remove the last entered character.
