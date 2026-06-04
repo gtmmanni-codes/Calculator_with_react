@@ -68,3 +68,9 @@ http://localhost:3000
 - For production applications, it is recommended to replace `eval()` with a safer expression parser such as:
   - mathjs
   - expr-eval
+
+## Future Improvements
+
+- Keyboard support
+- Scientific calculator functions
+- Calculation history
