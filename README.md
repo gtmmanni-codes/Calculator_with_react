@@ -15,3 +15,10 @@ A simple calculator built with React to practice useState, component-based archi
 - Decimal number support
 - Error handling for invalid expressions
 - Clean and user-friendly interface
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm (Node Package Manager)
