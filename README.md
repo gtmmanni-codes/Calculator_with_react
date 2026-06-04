@@ -77,3 +77,5 @@ http://localhost:3000
 - Dark/Light mode
 - Mobile-first responsive design
 - Safer expression evaluation
+
+AUTHOR - Gautam Manni
