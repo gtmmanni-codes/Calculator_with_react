@@ -36,3 +36,9 @@ git clone https://github.com/your-username/react-calculator.git
 ```bash
 cd react-calculator
 ```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
